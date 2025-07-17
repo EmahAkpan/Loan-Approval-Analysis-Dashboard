@@ -105,9 +105,8 @@ Consider reviewing policies for car loan approvals due to lower success rates.
 Encourage loan types like Home and Personal which have higher approval rates.
 
 📂 Suggested Folder Organization
-kotlin
-Copy
-Edit
+
+
 LoanPredictionExcelProject/
 │
 ├── Data/
@@ -126,7 +125,7 @@ LoanPredictionExcelProject/
 │
 └── README.xlsx (this file)
 
-Conclusion
+**Conclusion**
 The analysis provides valuable insights into the loan approval process. Employment status, credit score, gender and annual income emerged as strong predictors of approval,high education marginally improved approval chances while,. Loan purposes showed a minor influence on approval butl Loans for home and personal purposes had the highest approval rates. These findings can help financial institutions optimize their lending strategies, mitigate risk, and improve inclusivity in the approval process.
 
 <img width="4718" height="77" alt="image" src="https://github.com/user-attachments/assets/853ee7c4-b1ad-498f-89d0-dc44fcb92f9c" />
