@@ -2,7 +2,7 @@
 This analysis explores key factors influencing loan approvals using a dataset that includes demographic, financial, and application-specific information.  
  Loan Prediction Analysis – README
 
-##📝 Project Overview
+📝 Project Overview
 This project focuses on analyzing a loan prediction dataset to uncover patterns and insights that affect loan approvals. It explores demographic factors, financial indicators, and risk factors to support data-driven decisions in financial services, especially loan underwriting. The final goal is to help stakeholders understand which factors most influence loan approval outcomes.
 
 🎯 Objective
@@ -10,7 +10,6 @@ To analyze loan approval patterns using demographic and financial features such 
 
 📝 Dataset Description
 The dataset includes the following columns:
-
 Column Name	Description
 Gender	Male / Female
 Age	Applicant's age
