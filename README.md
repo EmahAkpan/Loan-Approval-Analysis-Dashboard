@@ -1,6 +1,6 @@
 # Loan-Approval-Analysis-Dashboard
 
-<img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/7b0ae618-8282-42b3-8c6e-73190504da1f" />
+![Image](https://github.com/user-attachments/assets/91afd2f4-5c80-4cf9-ac3d-4be2ad50748a)
 
 This analysis explores key factors influencing loan approvals using a dataset that includes demographic, financial, and application-specific information.  
  Loan Prediction Analysis – README
