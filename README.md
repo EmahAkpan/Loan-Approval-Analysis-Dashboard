@@ -20,6 +20,26 @@ Loan Status	Approved / Not Approved
 Tools and Features Used in Excel
 Power Query: Data cleaning and transformation
 
+**RESEARCH QUESTIONS**
+
+ LOAN APPROVAL PATTERNS
+ 
+(a) What is the overall loan approval rate?
+
+(b) Does gender influence loan approval?
+
+(c) Are employed applicants more likely to get approved than unemployed?
+
+(d) Do applicants with higher education levels have higher loan approval rates?
+
+(e) Which loan purposrs have the highest approval rates?
+
+ Financial Influence
+ 
+(a) How does annual income affect loan approval?
+
+(b) Does a higher credit score increase the chances of approval?
+
 IF functions: Age grouping, binary classification
 
 PivotTables & PivotCharts: Summary analysis
