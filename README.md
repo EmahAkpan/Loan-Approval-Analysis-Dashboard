@@ -1,6 +1,6 @@
 # Loan-Approval-Analysis-Dashboard
 
-<img width="512" height="512" alt="loan png" src="https://github.com/user-attachments/assets/63ef6837-0a42-4d27-a5ad-bc08d9ecf296" />
+
 
 
 
