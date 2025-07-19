@@ -1,14 +1,5 @@
 # Loan-Approval-Analysis-Dashboard
 
-<img width="729" height="643" alt="image" src="https://github.com/user-attachments/assets/fcb286e1-4dc2-436a-a142-bdf17881e9c4" />
-
-
-
-
-This project is a data-driven dashboard for analyzing loan approval patterns using gender, income, age, loan purpose, and credit score. It aims to provide insights into factors influencing loan approvals and helps visualize patterns through Power BI reports.
-
----
-
 ## 📊 Key Features
 
 - Gender influence on loan approval
@@ -18,45 +9,12 @@ This project is a data-driven dashboard for analyzing loan approval patterns usi
 - Risk and loan amount analysis
 - Interactive slicers and filters using Power BI
 
----
 
 ## 🛠️ Tools Used
 
 - **Microsoft Excel** – Data Cleaning & Preprocessing
 - **Power BI** – Dashboard Visualization
 - **GitHub** – Project Version Control & Sharing
-
----
-
-## 📂 Files in This Repository
-
-- `loan_data.xlsx` – Cleaned loan application dataset
-- `Loan_Approval_Analysis.pbix` – Power BI dashboard
-- `README.md` – Project overview and documentation
-- `9196974.png` – Loan symbol/logo
-
----
-
-## 📈 Dashboard Preview
-
-_You can view the Power BI dashboard by opening the `.pbix` file in Power BI Desktop._
-
----
-
-## 👨‍💻 Author
-
-**Emah Akpan**  
-GitHub: [@EmahAkpan](https://github.com/EmahAkpan)
-
----
-
-## 📌 License
-
-This project is for educational and analytical purposes only. Icons used from [Flaticon](https://www.flaticon.com).
-
-
-This analysis explores key factors influencing loan approvals using a dataset that includes demographic, financial, and application-specific information.  
- Loan Prediction Analysis – README
 
 ## Project Overview
 This project focuses on analyzing a loan prediction dataset to uncover patterns and insights that affect loan approvals. It explores demographic factors, financial indicators, and risk factors to support data-driven decisions in financial services, especially loan underwriting. The final goal is to help stakeholders understand which factors most influence loan approval outcomes.
