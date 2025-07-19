@@ -11,7 +11,7 @@ This project focuses on analyzing a loan prediction dataset to uncover patterns 
 ## Objectives
 To analyze loan approval patterns using demographic and financial features such as gender, age, income, credit score, and loan purpose. The project aims to identify key factors influencing loan approval and provide actionable insights using Excel features like formulas, PivotTables, charts, and slicers.
 
-** Dataset Description**
+## Dataset Description
 The dataset includes the following columns:
 Column Name	Description
 Gender	Male / Female
