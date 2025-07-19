@@ -24,10 +24,10 @@ Loan Status	Approved / Not Approved
 Tools and Features Used in Excel
 Power Query: Data cleaning and transformation
 
-**RESEARCH QUESTIONS**
+##RESEARCH QUESTIONS
 
- LOAN APPROVAL PATTERNS:
- 
+ **LOAN APPROVAL PATTERNS:**
+
 (a) What is the overall loan approval rate?
 
 (b) Does gender influence loan approval?
@@ -38,7 +38,7 @@ Power Query: Data cleaning and transformation
 
 (e) Which loan purposrs have the highest approval rates?
 
- Financial Influence:
+** Financial Influence:**
  
 (a) How does annual income affect loan approval?
 
