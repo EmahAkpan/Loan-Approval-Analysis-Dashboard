@@ -1,7 +1,5 @@
 # Loan-Approval-Analysis-Dashboard
 
-<img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/a1cd0f6f-ed7c-45d9-9cee-9eb8d4a43cbf" />
-
 
 
 This analysis explores key factors influencing loan approvals using a dataset that includes demographic, financial, and application-specific information.  
