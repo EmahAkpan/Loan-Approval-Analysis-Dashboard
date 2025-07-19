@@ -1,6 +1,6 @@
 # Loan-Approval-Analysis-Dashboard
 
-![Loan Logo](https://github.com/EmahAkpan/Loan-Approval-Analysis-Dashboard/blob/main/9196974.png?raw=true)
+
 
 This analysis explores key factors influencing loan approvals using a dataset that includes demographic, financial, and application-specific information.  
  Loan Prediction Analysis – README
