@@ -1,5 +1,7 @@
 # Loan-Approval-Analysis-Dashboard
 
+![Logo](https://github.com/user-attachments/assets/a4bfb494-aae1-49fe-9d3b-39280105a022)
+
 ## 📊 Key Features
 
 - Gender influence on loan approval
