@@ -24,7 +24,7 @@ Loan Status	Approved / Not Approved
 Tools and Features Used in Excel
 Power Query: Data cleaning and transformation
 
-##RESEARCH QUESTIONS
+## Research Questions
 
  **LOAN APPROVAL PATTERNS:**
 
