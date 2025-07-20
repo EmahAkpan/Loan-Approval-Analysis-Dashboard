@@ -1,6 +1,6 @@
 # Loan-Approval-Analysis-Dashboard
 
-![Logo](https://github.com/user-attachments/assets/a4bfb494-aae1-49fe-9d3b-39280105a022)
+![Image](https://github.com/user-attachments/assets/6fb6812d-91b0-4841-b1cf-564ac4cff9c1)
 
 ## 📊 Key Features
 
