@@ -1,6 +1,8 @@
 # Loan-Approval-Analysis-Dashboard
-## 📊 Key Features
 
+![logo](https://github.com/EmahAkpan/Loan-Approval-Analysis-Dashboard/blob/main/logo.jpg?raw=true)
+
+## 📊 Key Features
 - Gender influence on loan approval
 - Income and credit score trends
 - Loan approval by purpose (home, personal, car, etc.)
