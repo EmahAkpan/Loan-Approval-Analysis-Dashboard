@@ -163,4 +163,6 @@ LoanPredictionExcelProject/
 **Conclusion**
 The analysis provides valuable insights into the loan approval process. Employment status, credit score, gender and annual income emerged as strong predictors of approval,high education marginally improved approval chances while,. Loan purposes showed a minor influence on approval butl Loans for home and personal purposes had the highest approval rates. These findings can help financial institutions optimize their lending strategies, mitigate risk, and improve inclusivity in the approval process.
 
+E-mail me On: emah9326@gmail.com
+
 
